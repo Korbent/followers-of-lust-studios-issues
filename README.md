@@ -7,5 +7,6 @@ Read on upcoming, planned features and roadmap [here](roadmap.md). And check upd
 
 ### Links:
 
+* [Download public release](https://github.com/Korbent/followers-of-lust-studios-issues/releases)
 * [Patreon](https://www.patreon.com/Korbent)
 * [/r/FollowersOfLust](https://www.reddit.com/r/FollowersOfLust/)
