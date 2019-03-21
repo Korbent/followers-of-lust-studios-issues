@@ -5,6 +5,19 @@ For any bugs, graphical errors or crashes please open an issue [here](https://gi
 
 Read on upcoming, planned features and roadmap [here](roadmap.md). And check updates and changelog [here](changelog.md).
 
+Download the game and check other links below.
+
+![Filming a movie screenshot](https://raw.githubusercontent.com/Korbent/followers-of-lust-studios-issues/master/screenshots/screenshot_11_new_filming.png)
+
+### More Screenshots:
+
+* [Main Menu](https://raw.githubusercontent.com/Korbent/followers-of-lust-studios-issues/master/screenshots/screenshot_1_main.png)
+* [Starting out](https://raw.githubusercontent.com/Korbent/followers-of-lust-studios-issues/master/screenshots/screenshot_3_start.png)
+* [Next week 1](https://raw.githubusercontent.com/Korbent/followers-of-lust-studios-issues/master/screenshots/screenshot_5_week_1.png)
+* [Next week 2](https://raw.githubusercontent.com/Korbent/followers-of-lust-studios-issues/master/screenshots/screenshot_8_week_2.png)
+* [Finance](https://raw.githubusercontent.com/Korbent/followers-of-lust-studios-issues/master/screenshots/screenshot_10_finance.png)
+* [Settings](https://raw.githubusercontent.com/Korbent/followers-of-lust-studios-issues/master/screenshots/screenshot_12_settings.png)
+
 ### Links:
 
 * [Download public release](https://github.com/Korbent/followers-of-lust-studios-issues/releases)
