@@ -1,3 +1,12 @@
+#### v0.0.2 (19-03-25)
+- Revamp the whole filming process where you select each action you want to perform during the movie. Categories are temporarily disabled and performers are limited up to 3 people for the moment.
+- Add colours to gender glyphs in left-hand side employees section matching the filming process colours.
+- Option to randomise name in character creation.
+- Now actually says "penis size" for males on info panel in film a movie page.
+- Fix the clunky settings page when loading saves from 0.0.1.
+- Fix loading older saves not showing the newer saves in the load page.
+- Fix load game page spawning save section when deleting a save slot.
+
 #### v0.0.2-a.1 (19-03-21)
 - Don't render left-hand side on main menu.
 - GitHub link to main page instead of the issues page.
